@@ -133,7 +133,7 @@
   "MAP_DOT_SOURCE": "./assets/map_dots.json",
   "CONFIG": {
     "map": {
-      "offsetX": -0.8,
+      "offsetX": 0,
       "offsetY": -0.8,
       "backgroundColor": "0xf1efed"
     },
@@ -287,7 +287,7 @@
     },
     "ui": {
       "canvasLogo": {
-        "enabled": true,
+        "enabled": false,
         "textureUrl": "./assets/Dark_Font.png",
         "opacity": 1,
         "sizeByViewportHeight": 0.07,
